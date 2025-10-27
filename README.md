@@ -12,3 +12,9 @@ Session 2
     - ~30 mins
     - Learnt about footprints
     - <img width="611" height="372" alt="image" src="https://github.com/user-attachments/assets/ae8541dc-0855-4ed8-bcec-a62e099ff1e3" />
+
+Session 3
+  - Finisbed Firmware at home
+      - ~15 mins
+      - Learnt more about button & LED logic
+      - <img width="611" height="372" alt="image" src="https://github.com/user-attachments/assets/c324d266-9c9b-45af-a3c7-0fa1aecb84cb" />
