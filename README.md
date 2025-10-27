@@ -1,5 +1,5 @@
 # Pathfinder
-My pcb for the Pathfinder YSWS held by Hackclub!
+Punch in Morse, replay Morse!
 
 Session 1 
   - Finished Schematic in club
